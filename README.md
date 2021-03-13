@@ -1,2 +1,2 @@
 # LaserWeb (0.4.0-alpha)
-Work In Progress...
+To test locally, execute `python -m SimpleHTTPServer`
